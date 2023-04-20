@@ -276,6 +276,10 @@ The project aimed predict the house prices using the features. The study include
     | macro avg  | 0.95      | 0.95   | 0.95     | 588     |
     | weighted avg | 0.95   | 0.95   | 0.95     | 588     |
       </td></tr></table>
+  - Confusion Matrix
+    <div style="text-align: center;">
+      <img src="docs/images/confusion_matrix.png" style="width: 600px; height: 600px;">
+    </div>
   - Saving the project and demo studies.
     - trained model __tuned_ResNetV2__ as tensorflow (keras) saved_model format.
 
